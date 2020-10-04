@@ -1,4 +1,5 @@
-### Hi there 👋
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nocd5&show_icons=true&hide_border=true&line_height=30)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nocd5&hide=html&langs_count=10&layout=compact)
 
 <!--
 **nocd5/nocd5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
